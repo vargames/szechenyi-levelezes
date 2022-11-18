@@ -467,17 +467,17 @@ display: none;
 
 #zoom .z[rel=center] {
 	background-image: url('../images/zoom_reset.png');
-	background-position:left;
+	background-position:center;
 }
 
 #zoom .z[rel=in] {
 	background-image: url('../images/zoom_in.png');
-	background-position:left; 
+	background-position:center; 
 }
 
 #zoom .z[rel=out] {
 	background-image: url('../images/zoom_out.png');
-	background-position:left; 
+	background-position:center; 
 }
 
 .line {
