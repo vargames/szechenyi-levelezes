@@ -209,7 +209,7 @@ display: none;
 margin-top: 50px;
 margin-left: 25px;
 background:#fff;
-background-color:rgba(229, 250,	228);
+background-color:rgba(229,250,228,0.8);
 border:1px solid #ccc;
 z-index:20;
 position:fixed;
@@ -419,7 +419,7 @@ background-position: -51px -13px;
 #mainpanel .moreinformation {
 background: url('../images/info.png');
 background-repeat: no-repeat;
-margin-left: 5px;
+margin-left: 0;
 }
 
 #copyright {
@@ -492,23 +492,23 @@ display: none;
 
 #information {
 display: none;
-background: #e4efe5;
+background: #fff;
 padding: 0 0 0 0;
 }
 
 #information h3 {
-margin: 14px 0 4px 0;
+margin: 0 0 0 0;
 }
 
 #information p {
-margin: 0 0 4px 0;
+margin: 0 0 0 0;
 }
 
 #information .button {
 width: 14px;
 height: 14px;
 background-image: url('../images/sprite.png');
-border: 1px solid #999;
+border: 0 solid #999;
 display: inline-block;
 *display: inline;
 *zoom: 1;
