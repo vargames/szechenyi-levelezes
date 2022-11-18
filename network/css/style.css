@@ -441,7 +441,7 @@ display: none;
 #zoom {
 	z-index:999;
 	position: fixed;
-	left: 2%;
+	left: 4%;
 	bottom: 15px;
 	margin:0 auto;
 	padding: 0;
