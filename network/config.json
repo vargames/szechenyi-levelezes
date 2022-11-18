@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "\u003cimage src \u003d\"../network/thumbnails/oszk_logo_W.png\"\u003e",
+    "file": "",
     "link": "https://www.oszk.hu/",
-    "text": "DBK"
+    "text": ""
   },
   "text": {
     "more": "Széchényi Ferenc tudatosan gyűjtötte össze és őrizte meg a neves kortársaktól érkező válaszleveleket. Ez a mintegy hétszáz korabeli autográf írás ma is megtalálható az OSZK Kézirattárában. A levelezés további különlegessége, hogy a válaszadók esetenként kéziratokkal, könyvekkel, térképekkel, érmékkel fejezték ki támogatásukat, gyarapították Széchényi gyűjteményét. A válaszlevelek válogatásából az OSZK alapításának 210. évfordulójára nyomtatott kiadvány készült („Levélben értesítsen engem” c. album). A Deák Eszter és Zvara Edina szerkesztésében megjelent gazdagon illusztrált ünnepi kiadvány közel száz magyar nyelvű, illetve magyar fordításban közreadott, addig túlnyomórészt kiadatlan kortársi levelet tartalmaz olyan meghatározó személyektől, mint Batsányi János, Csokonai Vitéz Mihály, Tessedik Sámuel, Virág Benedek, Berzeviczy Gergely és Teleki Sámuel. Nem hiányozhatnak az összeállításból az európai hírű külföldi tudósok sem, mint a göttingeni professzor Christian Gottlob Heyne vagy August Ludwig Schlözer. Az OSZK Digitális Bölcsészeti Központja ezúttal digitális szövegkiadás formájában szeretné közzétenni e levelezés teljes szövegkorpuszát, másrészt a hozzá tartozó adatokból készít vizualizációt.  Az albumban egy közel hétszáz tételes táblázat foglalja össze mindazon személyeket és intézményeket, akiket Széchényi Ferenc a katalógus köteteivel megajándékozott. Ez az adatkorpusz képezi a készülő vizualizáció alapját. A táblázat tartalmazza a címzett személyek rövid életrajzi adatait, hogy megkapta és válaszolt-e a levélre, a válaszlevél nyelvét és lelőhelyét.  Az origó természetesen Széchényi Ferenc, aki egy személyben fogja össze a teljes értelmiségi közeget, őt veszik körül a címzettek, ahol további elágazások (vagy ugrópontok) is lehetségesek, néhány a címzettek által beküldött jelentős kézirat, címer, kiadvány stb. kiemelésével, amelyek ma is megtalálhatóak az OSZK gyűjteményében, sőt akár digitális formában is hozzáférhetőek.",
