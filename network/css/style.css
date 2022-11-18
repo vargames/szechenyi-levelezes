@@ -441,8 +441,8 @@ display: none;
 #zoom {
 	z-index:999;
 	position: fixed;
-	left: 45%;
-	bottom: 25px;
+	left: 2%;
+	bottom: 15px;
 	margin:0 auto;
 	padding: 0;
 	-webkit-touch-callout: none;
