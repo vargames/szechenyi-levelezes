@@ -170,7 +170,55 @@ function setupGUI(config) {
 		//hide more information link
 		$(".colours").hide();
 	}
-
+    // Colours1
+	if (config.legend.nodeLabel) {
+		$(".colours1").next().html(config.legend.colorLabel1);
+	} else {
+		//hide more information link
+		$(".colours1").hide();
+	}
+    // Colours2
+	if (config.legend.nodeLabel) {
+		$(".colours2").next().html(config.legend.colorLabel2);
+	} else {
+		//hide more information link
+		$(".colours2").hide();
+	}
+	// Colours3
+	if (config.legend.nodeLabel) {
+		$(".colours3").next().html(config.legend.colorLabel3);
+	} else {
+		//hide more information link
+		$(".colours3").hide();
+	}
+	// Colours4
+	if (config.legend.nodeLabel) {
+		$(".colours4").next().html(config.legend.colorLabel4);
+	} else {
+		//hide more information link
+		$(".colours4").hide();
+	}
+	// Colours5
+	if (config.legend.nodeLabel) {
+		$(".colours5").next().html(config.legend.colorLabel5);
+	} else {
+		//hide more information link
+		$(".colours5").hide();
+	}
+	// Colours6
+	if (config.legend.nodeLabel) {
+		$(".colours6").next().html(config.legend.colorLabel6);
+	} else {
+		//hide more information link
+		$(".colours6").hide();
+	}
+	// Colours7
+	if (config.legend.nodeLabel) {
+		$(".colours7").next().html(config.legend.colorLabel7);
+	} else {
+		//hide more information link
+		$(".colours7").hide();
+	}
 	$GP = {
 		calculating: !1,
 		showgroup: !1

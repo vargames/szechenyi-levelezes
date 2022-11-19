@@ -410,6 +410,42 @@ background-position: -51px -122px;
 background-image:url('../images/rainbow.png');
 
 }
+#mainpanel .colours1 {
+
+background-image:url('../images/szemely.png');
+
+}
+
+#mainpanel .colours2 {
+
+background-image:url('../images/varos.png');
+
+}
+#mainpanel .colours3 {
+
+background-image:url('../images/varmegye.png');
+
+}
+#mainpanel .colours4 {
+
+background-image:url('../images/horvatvarmegye.png');
+
+}
+#mainpanel .colours5 {
+
+background-image:url('../images/horvatszlavon.png');
+
+}
+#mainpanel .colours6 {
+
+background-image:url('../images/kaptalan.png');
+
+}
+#mainpanel .colours7 {
+
+background-image:url('../images/szechenyi.png');
+}
+
 #legend .note {
 margin-bottom: 8px;
 
