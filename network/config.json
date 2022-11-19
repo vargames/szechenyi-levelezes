@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Nyelv",
-    "colorLabel": "Címzett típusa",
+    "colorLabel": "Címzett típusa:",
     "nodeLabel": "Címzett",
     "colorLabel1": "Személy",
     "colorLabel2": "Város",
