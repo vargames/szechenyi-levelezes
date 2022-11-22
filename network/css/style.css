@@ -484,7 +484,7 @@ display: none;
 #zoom {
 	z-index:999;
 	position: fixed;
-	right: 8%;
+	right: 16%;
 	bottom: 15px;
 	margin:0 auto;
 	padding: 0;
