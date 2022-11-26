@@ -22,7 +22,8 @@
     "colorLabel4": "Horvát vármegye",
     "colorLabel5": "Horvát-szlavón város",
     "colorLabel6": "Káptalan, egyházi testület",
-    "colorLabel7": "Széchényi Ferenc"
+    "colorLabel7": "Széchényi Ferenc",
+    "colorLabel8": "Egyéb intézmény"
   },
   "features": {
     "search": true,

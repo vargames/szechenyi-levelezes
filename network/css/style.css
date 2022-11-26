@@ -445,6 +445,10 @@ background-image:url('../images/kaptalan.png');
 
 background-image:url('../images/szechenyi.png');
 }
+#mainpanel .colours8 {
+
+background-image:url('../images/intezmeny.png');
+}
 
 #legend .note {
 margin-bottom: 8px;

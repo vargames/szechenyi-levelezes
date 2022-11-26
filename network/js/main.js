@@ -219,6 +219,13 @@ function setupGUI(config) {
 		//hide more information link
 		$(".colours7").hide();
 	}
+	// Colours8
+	if (config.legend.nodeLabel) {
+		$(".colours8").next().html(config.legend.colorLabel8);
+	} else {
+		//hide more information link
+		$(".colours8").hide();
+	}
 	$GP = {
 		calculating: !1,
 		showgroup: !1
