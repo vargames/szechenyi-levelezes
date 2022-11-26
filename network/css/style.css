@@ -1,5 +1,5 @@
 * {
-padding: 2px;
+padding: 0px;
 margin: 0px;
 }
 
@@ -220,7 +220,7 @@ background-color:rgba(229,250,228,0.8);
 border:1px solid #ccc;
 z-index:20;
 position:fixed;
-top:-4%;
+top:-5%;
 }
 
 #mainpanel .b1 {
