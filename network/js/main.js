@@ -163,6 +163,13 @@ function setupGUI(config) {
 		//hide more information link
 		$(".edge").hide();
 	}
+	// Edge1
+	if (config.legend.edgeLabel1) {
+		$(".edge1").next().html(config.legend.edgeLabel1);
+	} else {
+		//hide more information link
+		$(".edge1").hide();
+	}
 	// Colours
 	if (config.legend.nodeLabel) {
 		$(".colours").next().html(config.legend.colorLabel);

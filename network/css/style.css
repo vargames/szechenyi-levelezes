@@ -408,7 +408,12 @@ background-position: -11px -119px;
 #mainpanel .edge {
 background-position: -51px -122px;
 }
+#mainpanel .edge1 {
 
+background-image:url('../images/magyar.png');
+background-position: -51px -122px;
+
+}
 #mainpanel .colours {
 
 background-image:url('../images/rainbow.png');
