@@ -39,7 +39,7 @@ html,body {
 	left: 0;
 	background-color: #273342;
 	background-position: center center;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-khtml-user-select: none;
@@ -219,8 +219,11 @@ background:#fff;
 background-color:rgba(229,250,228,0.8);
 border:1px solid #ccc;
 z-index:20;
-position:fixed;
+position:absolute;
 top:-5%;
+height: auto;
+width: auto;
+resize: vertical;
 }
 
 #mainpanel .b1 {
@@ -334,9 +337,9 @@ background-position: 200px -8px;
 	border: 1px solid 
 	#999;
 	padding: 6px;
-	height: 150px;
-	width: 250px;
-	overflow-y: scroll;
+	height: 165px;
+	width: 280px;
+	overflow-y: hidden;
 	overflow-x: hidden;
 	background-color: #999;
 	/*position: relative;
