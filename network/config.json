@@ -13,8 +13,15 @@
     "title": "Széchényi Ferenc kapcsolati hálója"
   },
   "legend": {
-    "edgeLabel": "Nyelv",
-    "edgeLabel1": "",
+    "edgeLabel": "Levél nyelve",
+    "edgeLabel1": "Magyar",
+    "edgeLabel2": "Latin",
+    "edgeLabel3": "Német",
+    "edgeLabel4": "Francia",
+    "edgeLabel5": "Olasz",
+    "edgeLabel6": "Nincs adat",
+    "edgeLabel7": "Nincs válasz",
+    "edgeLabel8": "Több nyelv",
     "colorLabel": "Címzett típusa",
     "nodeLabel": "Címzett",
     "colorLabel1": "Személy",

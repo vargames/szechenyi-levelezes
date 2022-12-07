@@ -412,7 +412,41 @@ background-position: -51px -122px;
 
 background-image:url('../images/magyar.png');
 background-position: -51px -122px;
+}
+#mainpanel .edge2 {
 
+background-image:url('../images/latin.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge3 {
+
+background-image:url('../images/nemet.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge4 {
+
+background-image:url('../images/francia.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge5 {
+
+background-image:url('../images/olasz.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge6{
+
+background-image:url('../images/nincsadat.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge7 {
+
+background-image:url('../images/nincsvalasz.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge8 {
+
+background-image:url('../images/tobbnyelv.png');
+background-position: -51px -122px;
 }
 #mainpanel .colours {
 
