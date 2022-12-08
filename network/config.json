@@ -13,6 +13,8 @@
     "title": "Széchényi Ferenc kapcsolati hálója"
   },
   "legend": {
+    "nodeLabel": "Címzett",
+    "colorLabel": "Címzett típusa",
     "edgeLabel": "Levél nyelve",
     "edgeLabel1": "Magyar",
     "edgeLabel2": "Latin",
@@ -22,8 +24,6 @@
     "edgeLabel6": "Nincs adat",
     "edgeLabel7": "Nincs válasz",
     "edgeLabel8": "Több nyelv",
-    "colorLabel": "Címzett típusa",
-    "nodeLabel": "Címzett",
     "colorLabel1": "Személy",
     "colorLabel2": "Vármegye",
     "colorLabel3": "Káptalan, egyházi testület",

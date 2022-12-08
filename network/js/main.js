@@ -156,69 +156,6 @@ function setupGUI(config) {
 		//hide more information link
 		$(".node").hide();
 	}
-	// Edge
-	if (config.legend.edgeLabel) {
-		$(".edge").next().html(config.legend.edgeLabel);
-	} else {
-		//hide more information link
-		$(".edge").hide();
-	}
-	// Edge1
-	if (config.legend.edgeLabel1) {
-		$(".edge1").next().html(config.legend.edgeLabel1);
-	} else {
-		//hide more information link
-		$(".edge1").hide();
-	}
-	// Edge2
-	if (config.legend.edgeLabel2) {
-		$(".edge2").next().html(config.legend.edgeLabel2);
-	} else {
-		//hide more information link
-		$(".edge2").hide();
-	}
-	// Edge3
-	if (config.legend.edgeLabel3) {
-		$(".edge3").next().html(config.legend.edgeLabel3);
-	} else {
-		//hide more information link
-		$(".edge3").hide();
-	}
-	// Edge4
-	if (config.legend.edgeLabel4) {
-		$(".edge4").next().html(config.legend.edgeLabel4);
-	} else {
-		//hide more information link
-		$(".edge4").hide();
-	}
-	// Edge5
-	if (config.legend.edgeLabel5) {
-		$(".edge5").next().html(config.legend.edgeLabel5);
-	} else {
-		//hide more information link
-		$(".edge5").hide();
-	}
-	// Edge6
-	if (config.legend.edgeLabel6) {
-		$(".edge6").next().html(config.legend.edgeLabel6);
-	} else {
-		//hide more information link
-		$(".edge6").hide();
-	}
-	// Edge7
-	if (config.legend.edgeLabel7) {
-		$(".edge7").next().html(config.legend.edgeLabel7);
-	} else {
-		//hide more information link
-		$(".edge7").hide();
-	}
-	// Edge8
-	if (config.legend.edgeLabel8) {
-		$(".edge8").next().html(config.legend.edgeLabel8);
-	} else {
-		//hide more information link
-		$(".edge8").hide();
-	}
 	// Colours
 	if (config.legend.nodeLabel) {
 		$(".colours").next().html(config.legend.colorLabel);
@@ -282,6 +219,70 @@ function setupGUI(config) {
 		//hide more information link
 		$(".colours8").hide();
 	}
+	// Edge
+	if (config.legend.edgeLabel) {
+		$(".edge").next().html(config.legend.edgeLabel);
+	} else {
+		//hide more information link
+		$(".edge").hide();
+	}
+	// Edge1
+	if (config.legend.edgeLabel1) {
+		$(".edge1").next().html(config.legend.edgeLabel1);
+	} else {
+		//hide more information link
+		$(".edge1").hide();
+	}
+	// Edge2
+	if (config.legend.edgeLabel2) {
+		$(".edge2").next().html(config.legend.edgeLabel2);
+	} else {
+		//hide more information link
+		$(".edge2").hide();
+	}
+	// Edge3
+	if (config.legend.edgeLabel3) {
+		$(".edge3").next().html(config.legend.edgeLabel3);
+	} else {
+		//hide more information link
+		$(".edge3").hide();
+	}
+	// Edge4
+	if (config.legend.edgeLabel4) {
+		$(".edge4").next().html(config.legend.edgeLabel4);
+	} else {
+		//hide more information link
+		$(".edge4").hide();
+	}
+	// Edge5
+	if (config.legend.edgeLabel5) {
+		$(".edge5").next().html(config.legend.edgeLabel5);
+	} else {
+		//hide more information link
+		$(".edge5").hide();
+	}
+	// Edge6
+	if (config.legend.edgeLabel6) {
+		$(".edge6").next().html(config.legend.edgeLabel6);
+	} else {
+		//hide more information link
+		$(".edge6").hide();
+	}
+	// Edge7
+	if (config.legend.edgeLabel7) {
+		$(".edge7").next().html(config.legend.edgeLabel7);
+	} else {
+		//hide more information link
+		$(".edge7").hide();
+	}
+	// Edge8
+	if (config.legend.edgeLabel8) {
+		$(".edge8").next().html(config.legend.edgeLabel8);
+	} else {
+		//hide more information link
+		$(".edge8").hide();
+	}
+	
 	$GP = {
 		calculating: !1,
 		showgroup: !1

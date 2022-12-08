@@ -404,50 +404,6 @@ margin-bottom: 12px;
 #mainpanel .node {
 background-position: -11px -119px;
 }
-
-#mainpanel .edge {
-background-position: -51px -122px;
-}
-#mainpanel .edge1 {
-
-background-image:url('../images/magyar.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge2 {
-
-background-image:url('../images/latin.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge3 {
-
-background-image:url('../images/nemet.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge4 {
-
-background-image:url('../images/francia.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge5 {
-
-background-image:url('../images/olasz.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge6{
-
-background-image:url('../images/nincsadat.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge7 {
-
-background-image:url('../images/nincsvalasz.png');
-background-position: -51px -122px;
-}
-#mainpanel .edge8 {
-
-background-image:url('../images/tobbnyelv.png');
-background-position: -51px -122px;
-}
 #mainpanel .colours {
 
 background-image:url('../images/rainbow.png');
@@ -492,6 +448,50 @@ background-image:url('../images/intezmeny.png');
 
 background-image:url('../images/szechenyi.png');
 }
+#mainpanel .edge {
+background-position: -51px -122px;
+}
+#mainpanel .edge1 {
+
+background-image:url('../images/magyar.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge2 {
+
+background-image:url('../images/latin.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge3 {
+
+background-image:url('../images/nemet.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge4 {
+
+background-image:url('../images/francia.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge5 {
+
+background-image:url('../images/olasz.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge6{
+
+background-image:url('../images/nincsadat.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge7 {
+
+background-image:url('../images/nincsvalasz.png');
+background-position: -51px -122px;
+}
+#mainpanel .edge8 {
+
+background-image:url('../images/tobbnyelv.png');
+background-position: -51px -122px;
+}
+
 
 #legend .note {
 margin-bottom: 8px;
